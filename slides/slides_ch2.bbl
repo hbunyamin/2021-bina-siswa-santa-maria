@@ -1,0 +1,25 @@
+\begin{thebibliography}{}
+
+\bibitem[Aji and Gozali, 2011]{aji2011pemrograman}
+Aji, A.~F. and Gozali, W. (2011).
+\newblock Pemrograman kompetitif dasar: Panduan memulai osn informatika,
+  acm-icpc, dan sederajat versi 1.9.
+\newblock \url{https://toki.id/buku-pemrograman-kompetitif-dasar}.
+
+\bibitem[Epp, 2020]{epp2020discrete}
+Epp, S.~S. (2020).
+\newblock {\em Discrete Mathematics with Applications Fifth Edition}.
+\newblock Brooks Cole, Cengage Learning.
+
+\bibitem[Johnsonbaugh, 2017]{johnsonbaugh2009discrete}
+Johnsonbaugh, R. (2017).
+\newblock {\em Discrete Mathematics 8th Edition}.
+\newblock Pearson.
+
+\bibitem[Levitin, 2012]{levitin2012introduction}
+Levitin, A. (2012).
+\newblock {\em Introduction to the Design \& Analysis of Algorithms 3rd
+  Edition}.
+\newblock Addison-Wesley.
+
+\end{thebibliography}
