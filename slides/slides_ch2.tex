@@ -132,12 +132,26 @@
 
 %\pgfdeclareimage[height=1.5cm]{university-logo}{images/logo-mcu}
 %\logo{\pgfuseimage{university-logo}}
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>{Outline}
+    \tableofcontents[currentsection,currentsection]
+  \end{frame}
+}
+
+
 
 \begin{document} 
 
 \begin{frame}
   \titlepage
 \end{frame}
+
+\begin{frame}{Outline}
+  \tableofcontents
+  % You might wish to add the option [pausesections]
+\end{frame}
+
 
  \begin{frame}
 
@@ -158,6 +172,7 @@
 \end{frame}
 
 %%%%
+\section{Aritmatika Modular}
 \begin{frame}{Aritmatika Modular (1/2)}
 	\begin{itemize}
 		\item<2-> \textbf{Modulo} adalah suatu operator matematika untuk mendapatkan sisa bagi suatu bilangan terhadap suatu bilangan lainnya~\citep{aji2011pemrograman}.
