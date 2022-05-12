@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.18)  21 APR 2022 09:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.18)  11 MAY 2022 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**slides_ch2.tex
-(./slides_ch2.tex
+**supplements-logika-ksnp-2022_sol.tex
+(./supplements-logika-ksnp-2022_sol.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-05>
 (/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
@@ -899,10 +899,38 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count354
 )
-LaTeX Info: Redefining \Invchi2 on input line 108.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 14
-6.
+LaTeX Info: Redefining \Invchi2 on input line 114.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 156.
+
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 15
+6.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -911,27 +939,27 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count355
 \l__pdf_internal_box=\box89
 )
-(./slides_ch2.aux)
-\openout1 = `slides_ch2.aux'.
+(./supplements-logika-ksnp-2022_sol.aux)
+\openout1 = `supplements-logika-ksnp-2022_sol.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -989,7 +1017,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 146.
+Package hyperref Info: Link coloring OFF on input line 156.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1003,79 +1031,80 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count362
 )
-LaTeX Info: Redefining \ref on input line 146.
-LaTeX Info: Redefining \pageref on input line 146.
-LaTeX Info: Redefining \nameref on input line 146.
- (./slides_ch2.out) (./slides_ch2.out)
+LaTeX Info: Redefining \ref on input line 156.
+LaTeX Info: Redefining \pageref on input line 156.
+LaTeX Info: Redefining \nameref on input line 156.
+ (./supplements-logika-ksnp-2022_sol.out)
+(./supplements-logika-ksnp-2022_sol.out)
 \@outlinefile=\write5
-\openout5 = `slides_ch2.out'.
+\openout5 = `supplements-logika-ksnp-2022_sol.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 146.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 156.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 146.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 156.
 \symnumbers=\mathgroup11
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 146.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 156.
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 14
+(Font)              `pureletters' in the math version `normal' on input line 15
 6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/mathkerncmss/m/sl --> T1/phv/m/it on input line 146
+(Font)                  OT1/mathkerncmss/m/sl --> T1/phv/m/it on input line 156
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 146.
+(Font)              `pureletters' in the math version `bold' on input line 156.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/bx/sl --> T1/phv/m/it on input line 14
+(Font)                  OT1/mathkerncmss/bx/sl --> T1/phv/m/it on input line 15
 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 146.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 146.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 146.
+(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 156.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 156.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 146.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 146.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 146.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 156.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 146.
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 146.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 146.
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 156.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 146.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 146.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 156.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 146.
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 156.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 146.
+(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/ptm/b/n on input line 146.
+(Font)                  OT1/cmss/b/n --> T1/ptm/b/n on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/b/n --> T1/phv/b/n on input line 146.
+(Font)                  T1/phv/b/n --> T1/phv/b/n on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 146.
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 146.
+(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 156.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/b/n on input line 146.
-LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 146
+(Font)                  T1/pcr/m/n --> T1/pcr/b/n on input line 156.
+LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 156
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
 (Font)              `boldpureletters' in the math version `normal' on input lin
-e 146.
+e 156.
 LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `norma
 l'
 (Font)                  OT1/mathkerncmss/bx/sl --> T1/phv/bx/it on input line 1
-46.
+56.
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
 (Font)              `boldpureletters' in the math version `bold' on input line 
-146.
+156.
 LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `bold'
 
 (Font)                  OT1/mathkerncmss/bx/sl --> T1/phv/bx/it on input line 1
-46.
+56.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1100,553 +1129,939 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem-dic
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./slides_ch2.nav)
-<images/faculty-it-logo.png, id=44, 439.4016pt x 82.3878pt>
+) (./supplements-logika-ksnp-2022_sol.nav)
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 160.
+<images/faculty-it-logo.png, id=53, 439.4016pt x 82.3878pt>
 File: images/faculty-it-logo.png Graphic file (type png)
 <use images/faculty-it-logo.png>
-Package pdftex.def Info: images/faculty-it-logo.png  used on input line 150.
+Package pdftex.def Info: images/faculty-it-logo.png  used on input line 160.
 (pdftex.def)             Requested size: 131.82149pt x 24.71652pt.
  [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/faculty-it-logo.png>]
-(./slides_ch2.toc) [2
+s/faculty-it-logo.png>] (./supplements-logika-ksnp-2022_sol.toc) [2
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 174.
- [3
-
-] (./slides_ch2.toc)
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+(./supplements-logika-ksnp-2022_sol.toc)
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
-[4
+[3
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 19
-0.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 190
+LaTeX Font Info:    Trying to load font information for U+msa on input line 179
 .
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 190
+LaTeX Font Info:    Trying to load font information for U+msb on input line 179
 .
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 190.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 179.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 190.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 179.
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 190.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 179.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 190.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 179.
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 190.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 179.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 190.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 179.
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <6> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 190.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 179.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <6> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 190.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 179.
 
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[4
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [5
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (7.29823pt too high) detected at line 196
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [6
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [7
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [8
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [9
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [10
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [11
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [12
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [13
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [14
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [15
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [16
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [17
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [18
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+<images/map-coloring.png, id=191, 1120.185pt x 626.34pt>
+File: images/map-coloring.png Graphic file (type png)
+<use images/map-coloring.png>
+Package pdftex.def Info: images/map-coloring.png  used on input line 279.
+(pdftex.def)             Requested size: 168.0205pt x 93.94695pt.
+
+Overfull \vbox (7.78865pt too high) detected at line 279
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [19
 
-]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/map-coloring.png>]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [20
 
-]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+] (./supplements-logika-ksnp-2022_sol.toc)
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [21
 
 ]
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 254.
-
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 254.
-
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 254.
-
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 254.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 254.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <6> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 254.
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [22
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [23
 
 ]
-Overfull \hbox (20.11662pt too wide) detected at line 309
-[]
- []
+<images/sifat-sifat-vertex-sisi.png, id=226, 973.6375pt x 590.205pt>
+File: images/sifat-sifat-vertex-sisi.png Graphic file (type png)
+<use images/sifat-sifat-vertex-sisi.png>
+Package pdftex.def Info: images/sifat-sifat-vertex-sisi.png  used on input line
+ 300.
+(pdftex.def)             Requested size: 243.40877pt x 147.55089pt.
 
-
-Overfull \vbox (14.20569pt too high) detected at line 309
- []
-
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [24
 
-]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/sifat-sifat-vertex-sisi.png>]
+<images/Example10-1-1.png, id=234, 540.0175pt x 413.545pt>
+File: images/Example10-1-1.png Graphic file (type png)
+<use images/Example10-1-1.png>
+Package pdftex.def Info: images/Example10-1-1.png  used on input line 311.
+(pdftex.def)             Requested size: 135.00404pt x 103.38599pt.
+
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [25
 
-]
-<images/diagram_venn.png, id=231, 432.61626pt x 314.17375pt>
-File: images/diagram_venn.png Graphic file (type png)
-<use images/diagram_venn.png>
-Package pdftex.def Info: images/diagram_venn.png  used on input line 345.
-(pdftex.def)             Requested size: 173.04343pt x 125.66727pt.
+ <./images/Example10-1-1.png>]
+File: images/Example10-1-1.png Graphic file (type png)
+<use images/Example10-1-1.png>
+Package pdftex.def Info: images/Example10-1-1.png  used on input line 311.
+(pdftex.def)             Requested size: 135.00404pt x 103.38599pt.
 
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [26
 
- <./images/diagram_venn.png>]
-File: images/diagram_venn.png Graphic file (type png)
-<use images/diagram_venn.png>
-Package pdftex.def Info: images/diagram_venn.png  used on input line 345.
-(pdftex.def)             Requested size: 173.04343pt x 125.66727pt.
+]
+File: images/Example10-1-1.png Graphic file (type png)
+<use images/Example10-1-1.png>
+Package pdftex.def Info: images/Example10-1-1.png  used on input line 311.
+(pdftex.def)             Requested size: 135.00404pt x 103.38599pt.
 
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [27
 
 ]
-File: images/diagram_venn.png Graphic file (type png)
-<use images/diagram_venn.png>
-Package pdftex.def Info: images/diagram_venn.png  used on input line 345.
-(pdftex.def)             Requested size: 173.04343pt x 125.66727pt.
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [28
 
 ]
-File: images/diagram_venn.png Graphic file (type png)
-<use images/diagram_venn.png>
-Package pdftex.def Info: images/diagram_venn.png  used on input line 345.
-(pdftex.def)             Requested size: 173.04343pt x 125.66727pt.
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [29
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+<images/fungsi-edge-to-point.png, id=274, 628.3475pt x 866.23625pt>
+File: images/fungsi-edge-to-point.png Graphic file (type png)
+<use images/fungsi-edge-to-point.png>
+Package pdftex.def Info: images/fungsi-edge-to-point.png  used on input line 32
+8.
+(pdftex.def)             Requested size: 78.54324pt x 108.27927pt.
+
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [30
 
-]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/fungsi-edge-to-point.png>]
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [31
 
 ]
-<images/solusi-soal-2.jpeg, id=273, 1604.99625pt x 459.7175pt>
-File: images/solusi-soal-2.jpeg Graphic file (type jpg)
-<use images/solusi-soal-2.jpeg>
-Package pdftex.def Info: images/solusi-soal-2.jpeg  used on input line 379.
-(pdftex.def)             Requested size: 320.99356pt x 91.94186pt.
+<images/Example10-1-2.png, id=291, 553.06625pt x 448.67625pt>
+File: images/Example10-1-2.png Graphic file (type png)
+<use images/Example10-1-2.png>
+Package pdftex.def Info: images/Example10-1-2.png  used on input line 343.
+(pdftex.def)             Requested size: 138.26622pt x 112.16878pt.
 
-Overfull \hbox (13.70369pt too wide) in paragraph at lines 379--379
- [] 
- []
-
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [32
 
- <./images/solusi-soal-2.jpeg>]
-File: images/solusi-soal-2.jpeg Graphic file (type jpg)
-<use images/solusi-soal-2.jpeg>
-Package pdftex.def Info: images/solusi-soal-2.jpeg  used on input line 379.
-(pdftex.def)             Requested size: 320.99356pt x 91.94186pt.
-
-Overfull \hbox (13.70369pt too wide) in paragraph at lines 379--379
- [] 
- []
-
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/Example10-1-2.png>]
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [33
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [34
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [35
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 452.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 452.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 452.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 452.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 452.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <7> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 452.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <7> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 452.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <5> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 452.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <5> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 452.
+<images/directed-and-undirected.png, id=324, 1854.93pt x 446.66875pt>
+File: images/directed-and-undirected.png Graphic file (type png)
+<use images/directed-and-undirected.png>
+Package pdftex.def Info: images/directed-and-undirected.png  used on input line
+ 353.
+(pdftex.def)             Requested size: 324.61761pt x 78.1682pt.
 
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \hbox (17.32774pt too wide) in paragraph at lines 353--353
+ [] 
+ []
+
+
+Overfull \vbox (4.53595pt too high) has occurred while \output is active []
 
 
 [36
 
-]
-Overfull \vbox (10.42992pt too high) detected at line 497
- []
-
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/directed-and-undirected.png>]
+(./supplements-logika-ksnp-2022_sol.toc)
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [37
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [38
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [39
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [40
 
 ]
-Overfull \hbox (22.66106pt too wide) detected at line 581
-[]
- []
-
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [41
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+<images/contoh-degree.png, id=406, 667.49374pt x 350.30875pt>
+File: images/contoh-degree.png Graphic file (type png)
+<use images/contoh-degree.png>
+Package pdftex.def Info: images/contoh-degree.png  used on input line 368.
+(pdftex.def)             Requested size: 200.24966pt x 105.09343pt.
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [42
 
-]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/contoh-degree.png>]
+<images/contoh-degree-2.png, id=414, 520.94624pt x 447.6725pt>
+File: images/contoh-degree-2.png Graphic file (type png)
+<use images/contoh-degree-2.png>
+Package pdftex.def Info: images/contoh-degree-2.png  used on input line 375.
+(pdftex.def)             Requested size: 130.23624pt x 111.91785pt.
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [43
 
-]
-<images/solusi-soal-6.jpeg, id=363, 1284.8pt x 722.7pt>
-File: images/solusi-soal-6.jpeg Graphic file (type jpg)
-<use images/solusi-soal-6.jpeg>
-Package pdftex.def Info: images/solusi-soal-6.jpeg  used on input line 613.
-(pdftex.def)             Requested size: 334.04012pt x 187.89757pt.
+ <./images/contoh-degree-2.png>]
+<images/map-coloring-1.png, id=424, 833.1125pt x 503.8825pt>
+File: images/map-coloring-1.png Graphic file (type png)
+<use images/map-coloring-1.png>
+Package pdftex.def Info: images/map-coloring-1.png  used on input line 384.
+(pdftex.def)             Requested size: 208.27762pt x 125.9703pt.
 
-Overfull \hbox (26.75024pt too wide) in paragraph at lines 613--613
- [] 
- []
-
-
-Overfull \vbox (1.89153pt too high) detected at line 613
- []
-
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [44
 
- <./images/solusi-soal-6.jpeg>]
-<images/soal-7-peta.png, id=370, 1038.88126pt x 787.94376pt>
-File: images/soal-7-peta.png Graphic file (type png)
-<use images/soal-7-peta.png>
-Package pdftex.def Info: images/soal-7-peta.png  used on input line 621.
-(pdftex.def)             Requested size: 233.75404pt x 177.29172pt.
+ <./images/map-coloring-1.png>]
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 394.
+<images/map-coloring-2.png, id=432, 823.075pt x 503.8825pt>
+File: images/map-coloring-2.png Graphic file (type png)
+<use images/map-coloring-2.png>
+Package pdftex.def Info: images/map-coloring-2.png  used on input line 394.
+(pdftex.def)             Requested size: 205.76823pt x 125.9703pt.
 
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [45
 
- <./images/soal-7-peta.png>]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/map-coloring-2.png>]
+<images/map-coloring-3.png, id=440, 835.12pt x 511.9125pt>
+File: images/map-coloring-3.png Graphic file (type png)
+<use images/map-coloring-3.png>
+Package pdftex.def Info: images/map-coloring-3.png  used on input line 403.
+(pdftex.def)             Requested size: 208.77948pt x 127.97781pt.
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [46
 
-]
-<images/solusi-soal-7.jpeg, id=384, 1284.8pt x 722.7pt>
-File: images/solusi-soal-7.jpeg Graphic file (type jpg)
-<use images/solusi-soal-7.jpeg>
-Package pdftex.def Info: images/solusi-soal-7.jpeg  used on input line 635.
-(pdftex.def)             Requested size: 353.3113pt x 198.7376pt.
+ <./images/map-coloring-3.png>]
+<images/map-coloring-4.png, id=449, 1527.7075pt x 465.74pt>
+File: images/map-coloring-4.png Graphic file (type png)
+<use images/map-coloring-4.png>
+Package pdftex.def Info: images/map-coloring-4.png  used on input line 411.
+(pdftex.def)             Requested size: 305.53609pt x 93.14635pt.
 
-Overfull \hbox (46.02142pt too wide) in paragraph at lines 635--635
- [] 
- []
-
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [47
 
- <./images/solusi-soal-7.jpeg>]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/map-coloring-4.png>]
+<images/map-coloring-5.png, id=457, 831.105pt x 505.89pt>
+File: images/map-coloring-5.png Graphic file (type png)
+<use images/map-coloring-5.png>
+Package pdftex.def Info: images/map-coloring-5.png  used on input line 420.
+(pdftex.def)             Requested size: 207.77574pt x 126.47218pt.
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [48
 
-]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/map-coloring-5.png>]
+<images/map-coloring-6.png, id=465, 829.0975pt x 499.8675pt>
+File: images/map-coloring-6.png Graphic file (type png)
+<use images/map-coloring-6.png>
+Package pdftex.def Info: images/map-coloring-6.png  used on input line 428.
+(pdftex.def)             Requested size: 207.27386pt x 124.96657pt.
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [49
 
-]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+ <./images/map-coloring-6.png>]
+File: images/map-coloring.png Graphic file (type png)
+<use images/map-coloring.png>
+Package pdftex.def Info: images/map-coloring.png  used on input line 437.
+(pdftex.def)             Requested size: 168.0205pt x 93.94695pt.
+
+Overfull \vbox (7.78865pt too high) detected at line 437
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [50
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [51
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [52
 
 ]
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [53
 
 ]
-<images/solusi-soal-10.jpeg, id=434, 1284.8pt x 722.7pt>
-File: images/solusi-soal-10.jpeg Graphic file (type jpg)
-<use images/solusi-soal-10.jpeg>
-Package pdftex.def Info: images/solusi-soal-10.jpeg  used on input line 727.
-(pdftex.def)             Requested size: 321.19922pt x 180.67455pt.
-
-Overfull \hbox (13.90935pt too wide) in paragraph at lines 727--727
- [] 
- []
-
-
-Overfull \vbox (4.34392pt too high) has occurred while \output is active []
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [54
 
- <./images/solusi-soal-10.jpeg>] (./slides_ch2.bbl
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 7.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 7.
-)
-Overfull \vbox (5.5379pt too high) has occurred while \output is active []
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
 
 
 [55
 
 ]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[56
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[57
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[58
+
+]
+<images/singanesia.png, id=528, 1403.2425pt x 976.64874pt>
+File: images/singanesia.png Graphic file (type png)
+<use images/singanesia.png>
+Package pdftex.def Info: images/singanesia.png  used on input line 520.
+(pdftex.def)             Requested size: 235.03654pt x 163.58409pt.
+
+Overfull \vbox (12.58943pt too high) detected at line 520
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[59
+
+ <./images/singanesia.png>]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[60
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[61
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[62
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[63
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 549.
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[64
+
+]
+<images/graf-contoh.png, id=572, 1259.70625pt x 743.77875pt>
+File: images/graf-contoh.png Graphic file (type png)
+<use images/graf-contoh.png>
+Package pdftex.def Info: images/graf-contoh.png  used on input line 549.
+(pdftex.def)             Requested size: 157.46289pt x 92.9721pt.
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[65
+
+ <./images/graf-contoh.png>]
+File: images/graf-contoh.png Graphic file (type png)
+<use images/graf-contoh.png>
+Package pdftex.def Info: images/graf-contoh.png  used on input line 549.
+(pdftex.def)             Requested size: 157.46289pt x 92.9721pt.
+<images/adjacency-matrix-contoh.png, id=582, 1086.0575pt x 847.165pt>
+File: images/adjacency-matrix-contoh.png Graphic file (type png)
+<use images/adjacency-matrix-contoh.png>
+Package pdftex.def Info: images/adjacency-matrix-contoh.png  used on input line
+ 549.
+(pdftex.def)             Requested size: 135.75685pt x 105.89536pt.
+
+Overfull \vbox (6.30675pt too high) detected at line 549
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[66
+
+ <./images/adjacency-matrix-contoh.png>]
+File: images/graf-contoh.png Graphic file (type png)
+<use images/graf-contoh.png>
+Package pdftex.def Info: images/graf-contoh.png  used on input line 549.
+(pdftex.def)             Requested size: 157.46289pt x 92.9721pt.
+File: images/adjacency-matrix-contoh.png Graphic file (type png)
+<use images/adjacency-matrix-contoh.png>
+Package pdftex.def Info: images/adjacency-matrix-contoh.png  used on input line
+ 549.
+(pdftex.def)             Requested size: 135.75685pt x 105.89536pt.
+
+Overfull \vbox (6.30675pt too high) detected at line 549
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[67
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[68
+
+]
+File: images/graf-contoh.png Graphic file (type png)
+<use images/graf-contoh.png>
+Package pdftex.def Info: images/graf-contoh.png  used on input line 557.
+(pdftex.def)             Requested size: 125.978pt x 74.38223pt.
+
+Overfull \vbox (1.69249pt too high) detected at line 557
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[69
+
+]
+File: images/graf-contoh.png Graphic file (type png)
+<use images/graf-contoh.png>
+Package pdftex.def Info: images/graf-contoh.png  used on input line 557.
+(pdftex.def)             Requested size: 125.978pt x 74.38223pt.
+<images/adjacency-list-contoh.png, id=616, 1312.905pt x 740.7675pt>
+File: images/adjacency-list-contoh.png Graphic file (type png)
+<use images/adjacency-list-contoh.png>
+Package pdftex.def Info: images/adjacency-list-contoh.png  used on input line 5
+57.
+(pdftex.def)             Requested size: 131.29819pt x 74.08109pt.
+
+Overfull \vbox (1.69249pt too high) detected at line 557
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[70
+
+ <./images/adjacency-list-contoh.png>]
+File: images/graf-contoh.png Graphic file (type png)
+<use images/graf-contoh.png>
+Package pdftex.def Info: images/graf-contoh.png  used on input line 557.
+(pdftex.def)             Requested size: 125.978pt x 74.38223pt.
+File: images/adjacency-list-contoh.png Graphic file (type png)
+<use images/adjacency-list-contoh.png>
+Package pdftex.def Info: images/adjacency-list-contoh.png  used on input line 5
+57.
+(pdftex.def)             Requested size: 131.29819pt x 74.08109pt.
+
+Overfull \vbox (1.69249pt too high) detected at line 557
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[71
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[72
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[73
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[74
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[75
+
+]
+<images/weighted-graph-contoh.png, id=666, 1682.285pt x 347.2975pt>
+File: images/weighted-graph-contoh.png Graphic file (type png)
+<use images/weighted-graph-contoh.png>
+Package pdftex.def Info: images/weighted-graph-contoh.png  used on input line 5
+68.
+(pdftex.def)             Requested size: 336.45103pt x 69.45827pt.
+
+Overfull \hbox (29.16116pt too wide) in paragraph at lines 568--568
+ [] 
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[76
+
+ <./images/weighted-graph-contoh.png>]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[77
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[78
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[79
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[80
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[81
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[82
+
+]
+<images/distance-matrix.png, id=718, 1747.52875pt x 462.72874pt>
+File: images/distance-matrix.png Graphic file (type png)
+<use images/distance-matrix.png>
+Package pdftex.def Info: images/distance-matrix.png  used on input line 589.
+(pdftex.def)             Requested size: 323.28777pt x 85.60347pt.
+
+Overfull \hbox (15.9979pt too wide) in paragraph at lines 589--589
+ [] 
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[83
+
+ <./images/distance-matrix.png>]
+File: images/distance-matrix.png Graphic file (type png)
+<use images/distance-matrix.png>
+Package pdftex.def Info: images/distance-matrix.png  used on input line 589.
+(pdftex.def)             Requested size: 323.28777pt x 85.60347pt.
+
+Overfull \hbox (15.9979pt too wide) in paragraph at lines 589--589
+ [] 
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[84
+
+]
+File: images/distance-matrix.png Graphic file (type png)
+<use images/distance-matrix.png>
+Package pdftex.def Info: images/distance-matrix.png  used on input line 589.
+(pdftex.def)             Requested size: 323.28777pt x 85.60347pt.
+
+Overfull \hbox (15.9979pt too wide) in paragraph at lines 589--589
+ [] 
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[85
+
+]
+File: images/distance-matrix.png Graphic file (type png)
+<use images/distance-matrix.png>
+Package pdftex.def Info: images/distance-matrix.png  used on input line 589.
+(pdftex.def)             Requested size: 323.28777pt x 85.60347pt.
+
+Overfull \hbox (15.9979pt too wide) in paragraph at lines 589--589
+ [] 
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[86
+
+]
+<images/floyd-algorithm.png, id=744, 1570.86874pt x 642.4pt>
+File: images/floyd-algorithm.png Graphic file (type png)
+<use images/floyd-algorithm.png>
+Package pdftex.def Info: images/floyd-algorithm.png  used on input line 595.
+(pdftex.def)             Requested size: 329.89218pt x 134.90797pt.
+
+Overfull \hbox (22.60231pt too wide) in paragraph at lines 595--595
+ [] 
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[87
+
+ <./images/floyd-algorithm.png>]
+<images/floyd-algorithm-example.png, id=751, 1177.39874pt x 1010.77625pt>
+File: images/floyd-algorithm-example.png Graphic file (type png)
+<use images/floyd-algorithm-example.png>
+Package pdftex.def Info: images/floyd-algorithm-example.png  used on input line
+ 601.
+(pdftex.def)             Requested size: 282.58147pt x 242.59125pt.
+
+Overfull \vbox (13.16022pt too high) detected at line 601
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[88
+
+ <./images/floyd-algorithm-example.png>]
+File: images/singanesia.png Graphic file (type png)
+<use images/singanesia.png>
+Package pdftex.def Info: images/singanesia.png  used on input line 610.
+(pdftex.def)             Requested size: 235.03654pt x 163.58409pt.
+
+Overfull \vbox (12.58943pt too high) detected at line 610
+ []
+
+
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[89
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[90
+
+]
+Overfull \vbox (5.74796pt too high) has occurred while \output is active []
+
+
+[91
+
+] (./supplements-logika-ksnp-2022_sol.bbl
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 23.
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <9> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 23.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 23.
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <5> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 23.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <5> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 23.
+)
+Overfull \vbox (5.5379pt too high) has occurred while \output is active []
+
+
+[92
+
+]
 \tf@nav=\write6
-\openout6 = `slides_ch2.nav'.
+\openout6 = `supplements-logika-ksnp-2022_sol.nav'.
 
 \tf@toc=\write7
-\openout7 = `slides_ch2.toc'.
+\openout7 = `supplements-logika-ksnp-2022_sol.toc'.
 
 \tf@snm=\write8
-\openout8 = `slides_ch2.snm'.
+\openout8 = `supplements-logika-ksnp-2022_sol.snm'.
 
- (./slides_ch2.aux)
-Package rerunfilecheck Info: File `slides_ch2.out' has not changed.
-(rerunfilecheck)             Checksum: 4D2402723D33B7BE84ABA8D208F09708;471.
+ (./supplements-logika-ksnp-2022_sol.aux)
+
+Package rerunfilecheck Warning: File `supplements-logika-ksnp-2022_sol.out' has
+ changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `supplements-logika-ksnp-2022_sol.ou
+t':
+(rerunfilecheck)             Before: 8839B33F3BAA5DB2425214FC6F9960B5;723
+(rerunfilecheck)             After:  C9A38F82F57FC3F5307CC27CA0EB96C3;722.
  ) 
 Here is how much of TeX's memory you used:
- 25711 strings out of 478278
- 494630 string characters out of 5846561
- 755001 words of memory out of 5000000
- 43182 multiletter control sequences out of 15000+600000
- 545602 words of font info for 130 fonts, out of 8000000 for 9000
+ 25911 strings out of 478278
+ 500543 string characters out of 5846561
+ 753319 words of memory out of 5000000
+ 43301 multiletter control sequences out of 15000+600000
+ 531463 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,17n,122p,495b,702s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/local/t
-exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texl
-ive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/te
-xmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dis
-t/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2021/texmf-dist/font
-s/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
-/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/z
-apfding/uzdr.pfb>
-Output written on slides_ch2.pdf (55 pages, 724905 bytes).
+ 128i,12n,122p,455b,714s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Outline0.4.1.108} has been referenced but does no
+t exist, replaced by a fixed one
+
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2021/texmf-
+dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fo
+nts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on supplements-logika-ksnp-2022_sol.pdf (92 pages, 1401387 bytes
+).
 PDF statistics:
- 532 PDF objects out of 1000 (max. 8388607)
- 418 compressed objects within 5 object streams
- 124 named destinations out of 1000 (max. 500000)
- 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 864 PDF objects out of 1000 (max. 8388607)
+ 672 compressed objects within 7 object streams
+ 196 named destinations out of 1000 (max. 500000)
+ 416 words of extra memory for PDF output out of 10000 (max. 10000000)
 

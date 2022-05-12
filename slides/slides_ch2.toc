@@ -1,2 +1,2 @@
-\babel@toc {english}{}
+\babel@toc {english}{}\relax 
 \beamer@sectionintoc {1}{Aritmatika Modular}{4}{0}{1}
