@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Aritmatika Modular}{4}{0}{1}
+\beamer@sectionintoc {2}{Diagram Venn}{84}{0}{2}
+\beamer@sectionintoc {3}{Logika I}{93}{0}{3}
+\beamer@sectionintoc {4}{Logika II}{96}{0}{4}
+\beamer@sectionintoc {5}{Operasi Logika}{101}{0}{5}
+\beamer@sectionintoc {6}{Masalah Convex Hull}{104}{0}{6}
+\beamer@sectionintoc {7}{Algoritma Dijkstra}{108}{0}{7}
+\beamer@sectionintoc {8}{Kombinatorik}{112}{0}{8}
+\beamer@sectionintoc {9}{Relasi Rekursif}{115}{0}{9}
+\beamer@sectionintoc {10}{Pemrograman Dinamis}{143}{0}{10}
